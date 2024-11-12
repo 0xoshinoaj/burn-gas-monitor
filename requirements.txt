@@ -1,0 +1,4 @@
+requests==2.28.1
+fake-useragent==1.5.1
+PySocks==1.7.1
+web3==7.4.0
